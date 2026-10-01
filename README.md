@@ -4,8 +4,9 @@ Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
 ## Dupla (ou trio)
 
-- Nome Sobrenome (usuario-do-github)
-- Nome Sobrenome (usuario-do-github)
+- Kaio Vinicius dos Santos Araújo - (Kaio-touch)
+- Maria Eduarda Oliveira Silva - (mariaoliveirasilva-lab)
+- Ana Kessiley Ferreira Rodrigues - (Ana.Kessiley.lovemiku)
 
 ## Como contribuir
 
